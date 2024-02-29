@@ -1,6 +1,6 @@
 # Dentist-Website-Project
 Dental Care is a comprehensive website designed to streamline the patient experience and enhance the efficiency of dental practices. From appointment scheduling to personalized treatment plans, our website is the bridge between patients and their oral health needs. <br>
-<strong> #Home Page </strong>
+<strong> <h3> #Home Page </h3> </strong>
 ![home](https://github.com/Itsme-Kunal/Dentist-Website-/assets/140551494/08125c1d-86fd-41bf-aafd-f2b910f83ff4)
 
 <strong> #About </strong>
